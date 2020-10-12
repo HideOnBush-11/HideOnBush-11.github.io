@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> 现就读于XTU，若有疑问或者是探讨问题，可联系邮箱751422075@qq.com
